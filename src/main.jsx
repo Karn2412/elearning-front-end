@@ -6,7 +6,7 @@ import { UserContextProvider } from './context/Context.jsx'
 import { CourseContextProvider } from './context/CourseContext.jsx'
 
 
-export const server = 'http://localhost:4300'
+export const server = "https://e-learning-server-ssan.onrender.com"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
