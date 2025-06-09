@@ -1,0 +1,22 @@
+.courses {
+    padding: 2rem 1rem;
+    background: linear-gradient(to bottom right, #ffffff, #f7f5ff);
+    min-height: 100vh;
+  }
+  
+  .courses h2 {
+    text-align: center;
+    font-weight: bold;
+    color: #7c3aed;
+    margin-bottom: 2.5rem;
+    font-size: 2.2rem;
+  }
+  
+  .course-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: stretch;
+  }
+  
